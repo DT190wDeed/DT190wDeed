@@ -13,7 +13,6 @@ I'm french developper
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![HTML5](https://skillicons.dev/icons?i=html)
-**Et autre**
 
 ## Using :
 ![VS Code](https://skillicons.dev/icons?i=vscode)
