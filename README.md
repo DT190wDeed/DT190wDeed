@@ -13,7 +13,10 @@ I'm french developper
 ![HTML5](https://skillicons.dev/icons?i=html)
 **Et autre**
 
+## Using :
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
+# - Pls star my repo :(
 
 ## Github stats :
 ![Adam x Mat GitHub stats](https://github-readme-stats.vercel.app/api?username=deveIops&show_icons=true&theme=radical)
