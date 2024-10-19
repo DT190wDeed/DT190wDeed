@@ -4,7 +4,7 @@
 ![](https://imgur.com/a/ZCnDjMR)
 
 # Discord : 
-- sqldtw
+[![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/roiab)
 
 ## 🚀 About Me
 I'm french developper
