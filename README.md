@@ -1,7 +1,7 @@
 # À propos de moi : 
  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-![](https://imgur.com/a/ZCnDjMR)
+![!](https://i.imgur.com/EkYQqF6.gif)
 
 # Discord : 
 [![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/roiab)
