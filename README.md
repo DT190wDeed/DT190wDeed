@@ -1,7 +1,7 @@
 # À propos de moi : 
  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-![](https://imgur.com/a/ZCnDjMR.png)
+![!](https://imgur.com/a/ZCnDjMR)
 
 # Discord : 
 - sqldtw
