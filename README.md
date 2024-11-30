@@ -8,15 +8,17 @@
 [![discord](https://img.shields.io/badge/discord-sqldtw-%237289DA)](https://discord.com/users/sqldtw)
 
 ## 🚀 About Me
-I'm french developper
+- I'm french developper
+- 15yo
 
 ## Learning :
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML5](https://skillicons.dev/icons?i=html)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust)](https://skillicons.dev)
+
+## Framework:
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## Using :
-![VS Code](https://skillicons.dev/icons?i=vscode)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vs,replit)
 
 ## Github stats :
-![Adam x Mat GitHub stats](https://github-readme-stats.vercel.app/api?username=DT190wDeed&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=DT190wDeed&show_icons=true&theme=radical)
