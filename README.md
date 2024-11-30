@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## Using :
-[![My Skills](https://skillicons.dev/icons?i=vscode,vs,replit)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,replit)
 
 ## Github stats :
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DT190wDeed&show_icons=true&theme=radical)
