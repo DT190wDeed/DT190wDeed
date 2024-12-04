@@ -11,11 +11,14 @@
 - I'm french developper
 - 15yo
 
+## OS :
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,kali,ubuntu)](https://skillicons.dev)
+
 ## Learning :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust)](https://skillicons.dev)
 
 ## Framework:
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,electron)](https://skillicons.dev)
 
 ## Using :
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,replit,atom)](https://skillicons.dev)
